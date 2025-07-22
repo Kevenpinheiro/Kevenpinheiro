@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Olá, prazer! Meu nome é Keven Guilherme Pinheiro, tenho 23 anos e sou desenvolvedor web Full Stack.
+Olá, prazer! Meu nome é Keven Guilherme Pinheiro, tenho 24 anos e sou desenvolvedor web Full Stack.
 
 Minha trajetória começou no esporte, como atleta de futebol, onde vivi experiências que moldaram não apenas minha visão de mundo, mas também minhas habilidades para a vida. Desde cedo, aprendi o valor do foco, da disciplina e da dedicação — princípios que aplico diariamente na minha jornada profissional.
 
