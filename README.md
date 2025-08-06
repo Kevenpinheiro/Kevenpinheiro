@@ -1,14 +1,18 @@
 # 👨🏾‍💻 Keven Pinheiro 
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack`** 
 
-Olá, prazer! Meu nome é Keven Guilherme Pinheiro, tenho 24 anos e sou desenvolvedor web Full Stack.
+Olá, prazer! Meu nome é Keven Guilherme Pinheiro, tenho 24 anos e sou desenvolvedor Full Stack.
 
 Minha trajetória começou no esporte, como atleta de futebol, onde vivi experiências que moldaram não apenas minha visão de mundo, mas também minhas habilidades para a vida. Desde cedo, aprendi o valor do foco, da disciplina e da dedicação — princípios que aplico diariamente na minha jornada profissional.
 
 Hoje, como desenvolvedor, trago comigo essa mentalidade de evolução constante, buscando sempre aprimorar minhas habilidades e entregar resultados de excelência. Meu objetivo é combinar a resiliência do esporte com a criatividade e a lógica da tecnologia para superar desafios e contribuir para soluções inovadoras.
-<p align="left">
-    <a href="https://www.linkedin.com/in/kevenpinheiro/">
+
+
+
+#### Me encontre também no **linkedin** ⤵️
+<p> 
+    <a align="center" href="https://www.linkedin.com/in/kevenpinheiro/">
         <img 
             alt="LinkedIn" 
             title="Acesse meu LinkedIn" 
@@ -17,11 +21,11 @@ Hoje, como desenvolvedor, trago comigo essa mentalidade de evolução constante,
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
         />
     </a>
+    
 </p>
 
 ---
 
-### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -124,13 +128,3 @@ Hoje, como desenvolvedor, trago comigo essa mentalidade de evolução constante,
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenpinheiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
