@@ -2,7 +2,7 @@
 
 **`Software Developer`** 
 
-Nice to meet you! I’m Keven, a Full Stack Developer focused on building complete and efficient web and mobile applications.
+Nice to meet you! I’m Keven, a Brazilian 🇧🇷 Full Stack Developer focused on building complete and efficient web and mobile applications.
 
 Before technology, I lived the world of sports as a soccer athlete, where I learned values like discipline, resilience, and teamwork.
 
