@@ -2,15 +2,14 @@
 
 **`Software Developer`** 
 
-Olá, prazer! Meu nome é Keven Guilherme Pinheiro, tenho 24 anos e sou desenvolvedor Full Stack.
+Nice to meet you! I’m Keven, a Full Stack Developer focused on building complete and efficient web and mobile applications.
 
-Minha trajetória começou no esporte, como atleta de futebol, onde vivi experiências que moldaram não apenas minha visão de mundo, mas também minhas habilidades para a vida. Desde cedo, aprendi o valor do foco, da disciplina e da dedicação — princípios que aplico diariamente na minha jornada profissional.
+Before technology, I lived the world of sports as a soccer athlete, where I learned values like discipline, resilience, and teamwork.
 
-Hoje, como desenvolvedor, trago comigo essa mentalidade de evolução constante, buscando sempre aprimorar minhas habilidades e entregar resultados de excelência. Meu objetivo é combinar a resiliência do esporte com a criatividade e a lógica da tecnologia para superar desafios e contribuir para soluções inovadoras.
+My purpose is to create products that solve real-world problems and drive business growth — always seeking to unite strategy, technology, and purpose.
 
 
-
-#### Me encontre também no **linkedin** ⤵️
+#### Find me **linkedin** ⤵️
 <p> 
     <a align="center" href="https://www.linkedin.com/in/kevenpinheiro/">
         <img 
