@@ -9,7 +9,7 @@ Before technology, I lived the world of sports as a soccer athlete, where I lear
 My purpose is to create products that solve real-world problems and drive business growth — always seeking to unite strategy, technology, and purpose.
 
 
-#### Find me **linkedin** ⤵️
+####  **linkedin** ⤵️
 <p> 
     <a align="center" href="https://www.linkedin.com/in/kevenpinheiro/">
         <img 
