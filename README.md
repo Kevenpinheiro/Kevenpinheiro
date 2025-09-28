@@ -1,6 +1,6 @@
 # 👨🏾‍💻 Keven Pinheiro 
 
-**`Desenvolvedor Full Stack`** 
+**`Software Developer`** 
 
 Olá, prazer! Meu nome é Keven Guilherme Pinheiro, tenho 24 anos e sou desenvolvedor Full Stack.
 
